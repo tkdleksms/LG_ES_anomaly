@@ -1,0 +1,160 @@
+   1/200 ----- [[2022-07-06 10:30:38]] [Need: 00:00:00]
+Train Epoch: 1 | MSE Loss: 1.312991
+Valid Epoch: 1 | MSE Loss: 0.910271
+Validation loss decreased (inf --> 0.910271).  Saving model ...
+   2/200 ----- [[2022-07-06 10:30:50]] [Need: 00:39:49]
+Train Epoch: 2 | MSE Loss: 0.930546
+Valid Epoch: 2 | MSE Loss: 1.378486
+EarlyStopping counter: 1 out of 12
+   3/200 ----- [[2022-07-06 10:31:01]] [Need: 00:37:25]
+Train Epoch: 3 | MSE Loss: 1.225198
+Valid Epoch: 3 | MSE Loss: 0.707681
+Validation loss decreased (0.910271 --> 0.707681).  Saving model ...
+   4/200 ----- [[2022-07-06 10:31:13]] [Need: 00:37:48]
+Train Epoch: 4 | MSE Loss: 0.890728
+Valid Epoch: 4 | MSE Loss: 1.065965
+EarlyStopping counter: 1 out of 12
+   5/200 ----- [[2022-07-06 10:31:23]] [Need: 00:36:55]
+Train Epoch: 5 | MSE Loss: 0.907840
+Valid Epoch: 5 | MSE Loss: 1.066485
+EarlyStopping counter: 2 out of 12
+   6/200 ----- [[2022-07-06 10:31:34]] [Need: 00:36:20]
+Train Epoch: 6 | MSE Loss: 0.976842
+Valid Epoch: 6 | MSE Loss: 1.326501
+EarlyStopping counter: 3 out of 12
+   7/200 ----- [[2022-07-06 10:31:45]] [Need: 00:35:52]
+Train Epoch: 7 | MSE Loss: 0.721649
+Valid Epoch: 7 | MSE Loss: 0.639754
+Validation loss decreased (0.707681 --> 0.639754).  Saving model ...
+   8/200 ----- [[2022-07-06 10:31:57]] [Need: 00:36:01]
+Train Epoch: 8 | MSE Loss: 0.798910
+Valid Epoch: 8 | MSE Loss: 0.925744
+EarlyStopping counter: 1 out of 12
+   9/200 ----- [[2022-07-06 10:32:07]] [Need: 00:35:38]
+Train Epoch: 9 | MSE Loss: 0.682362
+Valid Epoch: 9 | MSE Loss: 1.209348
+EarlyStopping counter: 2 out of 12
+  10/200 ----- [[2022-07-06 10:32:18]] [Need: 00:35:18]
+Train Epoch: 10 | MSE Loss: 0.574078
+Valid Epoch: 10 | MSE Loss: 0.519052
+Validation loss decreased (0.639754 --> 0.519052).  Saving model ...
+  11/200 ----- [[2022-07-06 10:32:34]] [Need: 00:36:27]
+Train Epoch: 11 | MSE Loss: 0.758593
+Valid Epoch: 11 | MSE Loss: 0.501141
+Validation loss decreased (0.519052 --> 0.501141).  Saving model ...
+  12/200 ----- [[2022-07-06 10:32:46]] [Need: 00:36:22]
+Train Epoch: 12 | MSE Loss: 0.687303
+Valid Epoch: 12 | MSE Loss: 0.600458
+EarlyStopping counter: 1 out of 12
+  13/200 ----- [[2022-07-06 10:32:56]] [Need: 00:35:58]
+Train Epoch: 13 | MSE Loss: 0.700280
+Valid Epoch: 13 | MSE Loss: 0.702242
+EarlyStopping counter: 2 out of 12
+  14/200 ----- [[2022-07-06 10:33:07]] [Need: 00:35:36]
+Train Epoch: 14 | MSE Loss: 0.678497
+Valid Epoch: 14 | MSE Loss: 0.598363
+EarlyStopping counter: 3 out of 12
+  15/200 ----- [[2022-07-06 10:33:18]] [Need: 00:35:16]
+Train Epoch: 15 | MSE Loss: 0.658188
+Valid Epoch: 15 | MSE Loss: 0.621537
+EarlyStopping counter: 4 out of 12
+  16/200 ----- [[2022-07-06 10:33:29]] [Need: 00:34:57]
+Train Epoch: 16 | MSE Loss: 0.635241
+Valid Epoch: 16 | MSE Loss: 1.051344
+EarlyStopping counter: 5 out of 12
+  17/200 ----- [[2022-07-06 10:33:40]] [Need: 00:34:39]
+Train Epoch: 17 | MSE Loss: 0.688775
+Valid Epoch: 17 | MSE Loss: 0.592982
+EarlyStopping counter: 6 out of 12
+  18/200 ----- [[2022-07-06 10:33:50]] [Need: 00:34:20]
+Train Epoch: 18 | MSE Loss: 0.662110
+Valid Epoch: 18 | MSE Loss: 0.546451
+EarlyStopping counter: 7 out of 12
+  19/200 ----- [[2022-07-06 10:34:01]] [Need: 00:34:04]
+Train Epoch: 19 | MSE Loss: 0.600981
+Valid Epoch: 19 | MSE Loss: 0.538156
+EarlyStopping counter: 8 out of 12
+  20/200 ----- [[2022-07-06 10:34:12]] [Need: 00:33:47]
+Train Epoch: 20 | MSE Loss: 0.678659
+Valid Epoch: 20 | MSE Loss: 0.650606
+EarlyStopping counter: 9 out of 12
+  21/200 ----- [[2022-07-06 10:34:26]] [Need: 00:34:02]
+Train Epoch: 21 | MSE Loss: 0.738507
+Valid Epoch: 21 | MSE Loss: 0.561273
+EarlyStopping counter: 10 out of 12
+  22/200 ----- [[2022-07-06 10:34:37]] [Need: 00:33:46]
+Train Epoch: 22 | MSE Loss: 0.625849
+Valid Epoch: 22 | MSE Loss: 0.589763
+EarlyStopping counter: 11 out of 12
+  23/200 ----- [[2022-07-06 10:34:48]] [Need: 00:33:30]
+Train Epoch: 23 | MSE Loss: 0.529234
+Valid Epoch: 23 | MSE Loss: 0.483150
+Validation loss decreased (0.501141 --> 0.483150).  Saving model ...
+  24/200 ----- [[2022-07-06 10:35:00]] [Need: 00:33:24]
+Train Epoch: 24 | MSE Loss: 0.625608
+Valid Epoch: 24 | MSE Loss: 0.613086
+EarlyStopping counter: 1 out of 12
+  25/200 ----- [[2022-07-06 10:35:10]] [Need: 00:33:08]
+Train Epoch: 25 | MSE Loss: 0.602950
+Valid Epoch: 25 | MSE Loss: 0.610895
+EarlyStopping counter: 2 out of 12
+  26/200 ----- [[2022-07-06 10:35:21]] [Need: 00:32:52]
+Train Epoch: 26 | MSE Loss: 0.659012
+Valid Epoch: 26 | MSE Loss: 0.498892
+EarlyStopping counter: 3 out of 12
+  27/200 ----- [[2022-07-06 10:35:32]] [Need: 00:32:37]
+Train Epoch: 27 | MSE Loss: 0.544340
+Valid Epoch: 27 | MSE Loss: 0.490212
+EarlyStopping counter: 4 out of 12
+  28/200 ----- [[2022-07-06 10:35:43]] [Need: 00:32:22]
+Train Epoch: 28 | MSE Loss: 0.643320
+Valid Epoch: 28 | MSE Loss: 0.473395
+Validation loss decreased (0.483150 --> 0.473395).  Saving model ...
+  29/200 ----- [[2022-07-06 10:35:55]] [Need: 00:32:16]
+Train Epoch: 29 | MSE Loss: 0.618311
+Valid Epoch: 29 | MSE Loss: 0.524926
+EarlyStopping counter: 1 out of 12
+  30/200 ----- [[2022-07-06 10:36:06]] [Need: 00:32:01]
+Train Epoch: 30 | MSE Loss: 0.569240
+Valid Epoch: 30 | MSE Loss: 0.587740
+EarlyStopping counter: 2 out of 12
+  31/200 ----- [[2022-07-06 10:36:20]] [Need: 00:32:06]
+Train Epoch: 31 | MSE Loss: 0.660950
+Valid Epoch: 31 | MSE Loss: 0.587072
+EarlyStopping counter: 3 out of 12
+  32/200 ----- [[2022-07-06 10:36:31]] [Need: 00:31:51]
+Train Epoch: 32 | MSE Loss: 0.591606
+Valid Epoch: 32 | MSE Loss: 0.501550
+EarlyStopping counter: 4 out of 12
+  33/200 ----- [[2022-07-06 10:36:41]] [Need: 00:31:36]
+Train Epoch: 33 | MSE Loss: 0.679366
+Valid Epoch: 33 | MSE Loss: 0.564157
+EarlyStopping counter: 5 out of 12
+  34/200 ----- [[2022-07-06 10:36:52]] [Need: 00:31:22]
+Train Epoch: 34 | MSE Loss: 0.664769
+Valid Epoch: 34 | MSE Loss: 0.539439
+EarlyStopping counter: 6 out of 12
+  35/200 ----- [[2022-07-06 10:37:03]] [Need: 00:31:08]
+Train Epoch: 35 | MSE Loss: 0.566903
+Valid Epoch: 35 | MSE Loss: 0.903595
+EarlyStopping counter: 7 out of 12
+  36/200 ----- [[2022-07-06 10:37:14]] [Need: 00:30:55]
+Train Epoch: 36 | MSE Loss: 0.591157
+Valid Epoch: 36 | MSE Loss: 0.661863
+EarlyStopping counter: 8 out of 12
+  37/200 ----- [[2022-07-06 10:37:25]] [Need: 00:30:41]
+Train Epoch: 37 | MSE Loss: 0.704622
+Valid Epoch: 37 | MSE Loss: 0.727737
+EarlyStopping counter: 9 out of 12
+  38/200 ----- [[2022-07-06 10:37:35]] [Need: 00:30:27]
+Train Epoch: 38 | MSE Loss: 0.631962
+Valid Epoch: 38 | MSE Loss: 0.559475
+EarlyStopping counter: 10 out of 12
+  39/200 ----- [[2022-07-06 10:37:46]] [Need: 00:30:14]
+Train Epoch: 39 | MSE Loss: 0.643242
+Valid Epoch: 39 | MSE Loss: 0.992563
+EarlyStopping counter: 11 out of 12
+  40/200 ----- [[2022-07-06 10:37:57]] [Need: 00:30:00]
+Train Epoch: 40 | MSE Loss: 0.601813
+Valid Epoch: 40 | MSE Loss: 0.500691
+EarlyStopping counter: 12 out of 12
